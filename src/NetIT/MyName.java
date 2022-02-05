@@ -7,6 +7,5 @@ public class MyName {
         Scanner scan = new Scanner(System.in);
         String myName = scan.nextLine();
         System.out.printf("My name is %s", myName);
-
     }
 }
