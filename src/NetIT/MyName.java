@@ -9,4 +9,5 @@ public class MyName {
         System.out.printf("My name is %s", myName);
     }
 
+
 }
