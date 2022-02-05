@@ -8,4 +8,5 @@ public class MyName {
         String myName = scan.nextLine();
         System.out.printf("My name is %s", myName);
     }
+
 }
